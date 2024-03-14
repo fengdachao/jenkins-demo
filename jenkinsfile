@@ -1,0 +1,5 @@
+@Library('fdp') _
+
+baseFrontendPipelineV5 { 
+    nodeJSVersion = 14
+}
